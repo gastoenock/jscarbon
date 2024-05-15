@@ -1,0 +1,18 @@
+{
+  "name": "carbonjs",
+  "version": "1.0.0",
+  "description": " A simple Javascript Package as an extension of Javascript Date object.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "carbon"
+  },
+  "keywords": [
+    "Javascript carbon",
+    "Carbon in javascript",
+    "Date manipulation library in Javacript",
+    "Javascript time"
+  ],
+  "author": "Gasto Enock",
+  "license": "MIT"
+}
